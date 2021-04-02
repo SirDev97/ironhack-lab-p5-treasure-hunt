@@ -7,8 +7,7 @@ function setup() {
 
 function draw() {
   game.drawGrid();
-  game.drawPlayer();
-  game.drawTreasure();
+  game.drawGame();
 }
 
 function preload() {
